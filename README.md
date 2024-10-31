@@ -1,6 +1,6 @@
 # Codeforces 800 Rated Problem Solutions
 
-Welcome to the **Codeforces 800 Rated Problem Solutions** repository! This repository contains my solutions to various Codeforces problems rated 900. This is a beginner-friendly collection of problem-solving code that helps build foundational skills in competitive programming.
+Welcome to the **Codeforces 800 Rated Problem Solutions** repository! This repository contains my solutions to various Codeforces problems rated 800. This is a beginner-friendly collection of problem-solving code that helps build foundational skills in competitive programming.
 
 ## Table of Contents
 - [About](#about)
